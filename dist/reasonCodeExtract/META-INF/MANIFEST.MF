@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_181-b13 (Oracle Corporation)
+Class-Path: lib/DA.jar lib/log-bridge-1.0.jar lib/log4j-1.2.14.jar lib
+ /opencsv-4.2.jar lib/slf4j-api-1.7.25.jar lib/slf4j-log4j12-1.7.25.ja
+ r
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: com.company.reasoncode.Principal
+
